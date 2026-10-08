@@ -1,0 +1,59 @@
+{
+  "slug": "pearl-events-kothamangalam",
+  "name": "Pearl Events",
+  "shortName": "Pearl",
+  "descriptor": "Event Management",
+  "address": "3JW4+WVP, Kothamangalam, Thrikkariyoor, Keralam 686692",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686692",
+  "geo": {
+    "lat": 10.0548375,
+    "lng": 76.65720309999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=17100234188024036669",
+  "phone": "+91 99466 69552",
+  "whatsapp": "919946669552",
+  "hours": "Open 8 am – 8 pm · all days",
+  "opens": "08:00",
+  "closes": "20:00",
+  "rating": 4.9,
+  "reviewCount": 178,
+  "reviews": [
+    {
+      "name": "BLESSY JOY",
+      "rating": 5,
+      "quote": "✨ A Heartfelt Thank You to Jeevan & Team Pearl Events ✨ Our wedding, our first son’s baptism, his first birthday, and now our daughter’s baptism — every special milestone of our family has been beautifully hosted and decorated by Jeevan and Team Pearl Events."
+    },
+    {
+      "name": "Mariya Vettickal",
+      "rating": 5,
+      "quote": "Our engagement decor by Pearl Events was absolutely beautiful and exceeded our expectations. The floral arrangements were elegant, fresh, and perfectly coordinated with our theme. The combination of white and lavender flowers created a classy and romantic ambiance, making the stage look stunning in photographs."
+    },
+    {
+      "name": "Baslin James",
+      "rating": 5,
+      "quote": "An exceptional team that made my wedding event so much more smooth and enjoyable. Pearl events, and our contact, Jeevan, was incredibly helpful throughout the whole process, from enquiring the details to execution of the event."
+    },
+    {
+      "name": "Jessy Scaria",
+      "rating": 5,
+      "quote": "We recently entrusted our baby's Baptism event to this amazing team for the stage decoration, lighting, sound, and seating arrangements, and they truly exceeded all our expectations. The stage looked absolutely beautiful, and every single guest appreciated and complimented the setup."
+    },
+    {
+      "name": "Nikhil Antony Xavier",
+      "rating": 5,
+      "quote": "We had an incredible experience with the Pearl Event Management team! Across the last three events they organized for us, everything was planned and executed flawlessly, from the decorations to the overall coordination. The team was professional, friendly, and highly attentive to every detail."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://pearl-events-kothamangalam.vercel.app"
+}
